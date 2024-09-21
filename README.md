@@ -18,3 +18,4 @@ HTML/CSS
 
 # Clone the repository:
 git clone [Click to check](https://github.com/SanjaySarvah/React-Router-Dom-Productlist.git)
+and install npm package(cmd : npm install) and run the application(cmd : npm run dev)
