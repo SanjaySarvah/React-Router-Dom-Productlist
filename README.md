@@ -17,4 +17,4 @@ Fake Store API (for product data)
 HTML/CSS
 
 # Clone the repository:
-git clone [Check Repo](https://github.com/SanjaySarvah/React-Router-Dom-Productlist.git)
+git clone [Click to check](https://github.com/SanjaySarvah/React-Router-Dom-Productlist.git)
